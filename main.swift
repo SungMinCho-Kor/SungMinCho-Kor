@@ -4,7 +4,7 @@ import Foundation
 enum Constants {
     
     static let blogLink = "https://iossungmin.tistory.com/rss"
-    static let blogTitle = "## Blog"
+    static let blogTitle = "## Posting"
     static let maxPostCount = 6
     static let readmeFileName = "README.md"
     
