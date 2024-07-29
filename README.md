@@ -1,5 +1,5 @@
 
-<h1> 🧑‍💻 iOS Developer </h1>
+<h1> 🧑‍💻 iOS Developer <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSungMinCho-Kor&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/> </h1>
 <b>서비스와 사용자를 먼저 생각하는 개발자 조성민입니다 😄</b>
 
 <br>
