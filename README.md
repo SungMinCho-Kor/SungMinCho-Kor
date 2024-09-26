@@ -39,3 +39,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=round-square&logo=Discord&logoColor=white"/>
 </p>
+<br>
+
+<b><h3>☘️ Algorithm</h3></b>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhxoeh0011)](https://solved.ac/rhxoeh0011/)
