@@ -16,6 +16,8 @@
 <b><h3>🎯 ACTIVITY</h3></b>
 - 이노베이션 아카데미 42 Seoul Cardet(2022.09. ~ 2023.02.)<br>
 - 네이버 커넥트 재단 부스트캠프 웹・모바일 8기 iOS (2023.07. ~ 2023.12.)<br>
+- SOPT 35기 iOS (2024.09. ~ 2025.02.)<br>
+- SeSAC iOS (2024.12. ~ )<br>
 </p>
 
 <br>
@@ -29,6 +31,8 @@
   <br>
   <img src="https://img.shields.io/badge/RxSwift-B7178C?style=round-square&logo=ReactiveX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Alamofire-00FF7B?style=round-square&logo=Alamy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kingfisher-2379F4?style=round-square&logo=firefish&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SnapKit-0FAAFF?style=round-square&logo=radar&logoColor=white"/>
 </p>
   <br>
   
