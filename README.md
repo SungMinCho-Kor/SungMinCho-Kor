@@ -1,28 +1,31 @@
 
-<h1> 🧑‍💻 iOS Developer <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSungMinCho-Kor&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/> </h1>
-<b>서비스와 사용자를 먼저 생각하는 개발자 조성민입니다</b>
-
-<br>
-<br>
-
 <p>
-<b><h3>💼 Work Experience</h3></b>
-- 트루엔 - iOS (+Flutter) (2025.03. ~ ing)<br>
-- 푼타컴퍼니 - iOS (2024.03. ~ 2024.06.)<br>
+  <h3>Now</h3>
+<b>I'm studying AI.</b>
 </p>
 
 <br>
 
 <p>
-<b><h3>🎯 ACTIVITY</h3></b>
-- 새싹(SeSAC) iOS 과정 (2024.12. ~ 2025.03.)<br>
-- 네이버 커넥트 재단 부스트캠프 웹・모바일 8기 iOS (2023.07. ~ 2023.12.)<br>
-- SOPT 35기 iOS (2024.09. ~ 2025.02.)<br>
+<b><h3>Work Experience</h3></b>
+- <b>Truen</b> (2025.03. - 2025.12.) <br>
+  Mobile Developer (Primarily iOS, also Flutter)<br>
+- <b>Punta Company</b> (2024.03. - 2024.06.) <br>
+  iOS Developer Intern<br>
 </p>
 
 <br>
 
-<b><h3>🖥️ SKILL</h3></b>
+<p>
+<b><h3>Activity</h3></b>
+- 새싹(SeSAC) iOS 과정 (2024.12. - 2025.03.)<br>
+- 네이버 커넥트 재단 부스트캠프 웹・모바일 8기 챌린지, 맴버십 iOS 과정 (2023.07. - 2023.12.)<br>
+- 연합동아리 SOPT 35기 iOS 파트 (2024.09. - 2025.02.)<br>
+</p>
+
+<br>
+
+<b><h3>Developer Skill</h3></b>
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/SwiftUI-2379F4?style=round-square&logo=Swift&logoColor=white"/>
@@ -36,7 +39,7 @@
 </p>
   <br>
   
-<b><h3>🛠️ TOOL</h3></b>
+<b><h3>Tools</h3></b>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=GitHub&logoColor=white"/>
@@ -47,5 +50,5 @@
 </p>
 <br>
 
-<b><h3>☘️ Algorithm</h3></b>
+<b><h3>Algorithm</h3></b>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhxoeh0011)](https://solved.ac/rhxoeh0011/)
